@@ -12,6 +12,7 @@
   * [Contributing](#Contributing)
   * [Test](#Test)
   * [Email](#Email)
+  * [Github](Github)
   
   ### **Installation**
 
@@ -19,7 +20,7 @@
 
   ### **Usage**
 
-  This application is used for This application is used for Open a command line interface and type the command 'node index.js' and then follow the prompts. When completed, a README file will appear in the Output directory.
+  This application is used for This application is used for This application is used for Open a command line interface and type the command 'node index.js' and then follow the prompts. When completed, a README file will appear in the Output directory.
 
   ### **License**
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)

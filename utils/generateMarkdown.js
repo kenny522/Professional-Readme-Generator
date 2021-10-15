@@ -15,7 +15,7 @@ function generateMarkdown(data) {
   * [Contributing](#Contributing)
   * [Test](#Test)
   * [Email](#Email)
-  * [Github](Github)
+  
   
   ### **Installation**
 

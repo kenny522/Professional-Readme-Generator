@@ -2,8 +2,6 @@
 # Proffesional README Generator
 
 
-# Professional README Generator
-
 
 
  ## Description

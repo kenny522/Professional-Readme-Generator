@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Proffesional README Generator
-=======
+
 
 # Professional README Generator
->>>>>>> 055cd00a9636abf3c6708a1ba96530677adc4f13
+
 
 
  ## Description

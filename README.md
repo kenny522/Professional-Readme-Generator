@@ -49,4 +49,5 @@
 [Link to Sample](https://drive.google.com/file/d/1t4XcK_oUAldnB0HlbqK8VjB8zC5oP8Yc/view?usp=sharing<img width="2560" alt="Screen Shot 2021-10-14 at 4 17 17 PM")
 
 
-src="https://user-images.githubusercontent.com/84942098/137412309-0a84d18d-0de3-4565-98ca-64f40422a4ca.png">
+<img width="2560" alt="Screen Shot 2021-10-23 at 2 09 34 PM" src="https://user-images.githubusercontent.com/84942098/138571702-f5ccb6ca-bf09-4ee2-a85f-bb7a3a3a28cf.png">
+

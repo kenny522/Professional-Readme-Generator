@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Proffesional README Generator
+=======
+
+# Professional README Generator
+>>>>>>> 055cd00a9636abf3c6708a1ba96530677adc4f13
 
 
  ## Description
@@ -42,3 +47,5 @@
 
   [GitHub Profile](https://github.com/kenny522)
 
+
+<img width="2560" alt="Screen Shot 2021-10-14 at 4 17 17 PM" src="https://user-images.githubusercontent.com/84942098/137412309-0a84d18d-0de3-4565-98ca-64f40422a4ca.png">

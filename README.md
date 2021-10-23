@@ -1,4 +1,4 @@
-# Professional README Generator
+# Proffesional README Generator
 
 
  ## Description
@@ -16,11 +16,11 @@
   
   ### **Installation**
 
-  Clone the repository from GitHub. Then use 'npm install' on the command line to install the npm packages for the project.
+  Clone the repository from Github.Then use 'npm install' on the command line to install the npm packages for the project.
 
   ### **Usage**
 
-  This application is used for This application is used for This application is used for This application is used for Open a command line interface and type the command 'node index.js' and then follow the prompts. When completed, a README file will appear in the Output directory.
+  This application is used for This application is used for openening a command line interface and type the command 'node index.js and then follow the prompts. When completed, a readme file will appear in the Output directory.
 
   ### **License**
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -28,7 +28,7 @@
 
   ### **Contributing**
 
-  Kenny N.
+  Kenny
 
   ### **Test** 
 
@@ -36,7 +36,7 @@
 
   ### **Email**
   
-  email@gmail.com
+  email@email.com
 
   ## Github
 
